@@ -1,0 +1,9 @@
+/* TEAM */
+	Author/Theme: John Cobb
+	Original Design: Dominik Moritz
+
+/* SITE */
+	Language: English
+	Doctype: HTML5
+	IDE: VSCode
+	Software: Jekyll
